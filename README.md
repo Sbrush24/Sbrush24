@@ -1,0 +1,1 @@
+I'm Sean Brush, a software engineering student at Bucks County Community College, transferring to a four-year program. I build small tools and automations for local businesses through [Brush Insights](https://brushinsights.com). Right now I'm most interested in how people direct AI coding assistants, which is what [Prompt Game](https://sbrush24.github.io/prompt-game/) is about.
